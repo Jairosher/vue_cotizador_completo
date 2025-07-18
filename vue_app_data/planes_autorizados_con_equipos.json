@@ -1,0 +1,346 @@
+[
+  {
+    "Unnamed: 0": "",
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLAN ROL DE PAGOS - COLABORADORES INTERNO",
+    "Unnamed: 2": "",
+    "Unnamed: 3": "",
+    "Unnamed: 4": "",
+    "Unnamed: 5": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLANES CORPORATIVOS - EMPRESAS",
+    "Unnamed: 2": "",
+    "Unnamed: 3": "",
+    "Unnamed: 4": "",
+    "Unnamed: 5": ""
+  },
+  {
+    "Unnamed: 0": "",
+    "PLANES MASIVOS - CLIENTES MASIVOS": "",
+    "Unnamed: 2": "",
+    "Unnamed: 3": "",
+    "Unnamed: 4": "",
+    "Unnamed: 5": ""
+  },
+  {
+    "Unnamed: 0": "CÓDIGO ",
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLAN",
+    "Unnamed: 2": "Tarifa",
+    "Unnamed: 3": "CBM",
+    "Unnamed: 4": "EQUIPO DIFERIDO EN LA FACTURA ",
+    "Unnamed: 5": "OBSERVACIONES"
+  },
+  {
+    "Unnamed: 0": 300522,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan Ultra navegación ($22,99 + imp) / por 3 meses $17,99 + imp",
+    "Unnamed: 2": 22.99,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Verificar guía comercial - VIGENTE EN GUIA COMERCIAL"
+  },
+  {
+    "Unnamed: 0": 300529,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan ilimitado Social Plus ($15,99 + imp)",
+    "Unnamed: 2": 15.99,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Verificar guía comercial - VIGENTE EN GUIA COMERCIAL"
+  },
+  {
+    "Unnamed: 0": 300529,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan ilimitado Social Plus ($19,99 + imp)",
+    "Unnamed: 2": 19.99,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Verificar guía comercial - VIGENTE EN GUIA COMERCIAL"
+  },
+  {
+    "Unnamed: 0": 300529,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan ilimitado Social Plus ($21,99 + imp)",
+    "Unnamed: 2": 21.99,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Verificar guía comercial - VIGENTE EN GUIA COMERCIAL"
+  },
+  {
+    "Unnamed: 0": 300522,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan móvil Ilimitado ($35,00 + imp) / por 3 meses $30,00 + imp",
+    "Unnamed: 2": 35,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Verificar guía comercial - VIGENTE EN GUIA COMERCIAL"
+  },
+  {
+    "Unnamed: 0": 300525,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan Portabilidad ($12,99 + imp)",
+    "Unnamed: 2": 12.99,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Verificar guía comercial - VIGENTE EN GUIA COMERCIAL"
+  },
+  {
+    "Unnamed: 0": 300516,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan Móvil Más ($14,53 + imp)",
+    "Unnamed: 2": 14.53,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Verificar guía comercial - VIGENTE EN GUIA COMERCIAL"
+  },
+  {
+    "Unnamed: 0": 300515,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan Servidor Público ($12,99 + imp)",
+    "Unnamed: 2": 12.99,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Verificar guía comercial - VIGENTE EN GUIA COMERCIAL"
+  },
+  {
+    "Unnamed: 0": 300515,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan Servidor Público ($18,75 + imp)",
+    "Unnamed: 2": 18.75,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Verificar guía comercial – VIGENTE EN GUIA COMERCIAL"
+  },
+  {
+    "Unnamed: 0": 300522,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan móvil Ilimitado ($29,99 + imp)",
+    "Unnamed: 2": 29.99,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Verificar guía comercial - VIGENTE EN GUIA COMERCIAL"
+  },
+  {
+    "Unnamed: 0": 300517,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan Adulto Mayor ($5,95 + imp)",
+    "Unnamed: 2": 5.95,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Verificar guía comercial – VIGENTE EN GUIA COMERCIAL"
+  },
+  {
+    "Unnamed: 0": 300516,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan Móvil Ahorro ($10,47 + imp)",
+    "Unnamed: 2": 10.47,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Verificar guía comercial – VIGENTE EN GUIA COMERCIAL"
+  },
+  {
+    "Unnamed: 0": 300516,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan Móvil Ahorro ($12,91 + imp)",
+    "Unnamed: 2": 12.91,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Verificar guía comercial – VIGENTE EN GUIA COMERCIAL"
+  },
+  {
+    "Unnamed: 0": 300298,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan Discapacidad ($12,00 + imp)",
+    "Unnamed: 2": 12,
+    "Unnamed: 3": 2,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Verificar guía comercial – VIGENTE EN GUIA COMERCIAL"
+  },
+  {
+    "Unnamed: 0": "",
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan Rol de Pagos",
+    "Unnamed: 2": 0,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Exclusivo para colaboradores internos"
+  },
+  {
+    "Unnamed: 0": "(Plan Modular 300514 + Paquete 5705 + Paquete 5708)",
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan Modular (14,90 + imp)",
+    "Unnamed: 2": 14.9,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Tiempo mínimo de permanencia: 12 meses"
+  },
+  {
+    "Unnamed: 0": "(Plan Modular 300514 + Paquete 5705 + Paquete 5709)",
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan Modular Starnet (19,90 + imp)",
+    "Unnamed: 2": 19.9,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Tiempo mínimo de permanencia: 12 meses"
+  },
+  {
+    "Unnamed: 0": "(Plan Modular 300514 + Paquete 5705 + Paquete 5710)",
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan Modular ProConnect (24,90 + imp)",
+    "Unnamed: 2": 24.9,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Tiempo mínimo de permanencia: 12 meses"
+  },
+  {
+    "Unnamed: 0": "(Plan Modular 300514 + Paquete 5705 + Paquete 5711)",
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan Modular EliteBusiness(29,90 + imp)",
+    "Unnamed: 2": 29.9,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Tiempo mínimo de permanencia: 12 meses"
+  },
+  {
+    "Unnamed: 0": "(Plan Modular 300514 + Paquete 5705 + Paquete 5712)",
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan Modular (34,90 + imp)",
+    "Unnamed: 2": 34.9,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Tiempo mínimo de permanencia: 12 meses"
+  },
+  {
+    "Unnamed: 0": "(Plan Modular 300514 + Paquete 5705 + Paquete 5711 + Paquete 5712)",
+    "PLANES MASIVOS - CLIENTES MASIVOS": "Plan Modular (54,80 + imp)",
+    "Unnamed: 2": 54.8,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "SI",
+    "Unnamed: 5": "Tiempo mínimo de permanencia: 12 meses"
+  },
+  {
+    "Unnamed: 0": 300531,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLAN INERTEN GRANDES CAPACIDADES SMART CONNECT PRO 12M 10 GB",
+    "Unnamed: 2": 10.81,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "MIFI",
+    "Unnamed: 5": "Exclusivo para captación y mantenimiento de cuentas corporativas. 12M"
+  },
+  {
+    "Unnamed: 0": 300531,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLAN INERTEN GRANDES CAPACIDADES SMART CONNECT PRO 12M 12 GB",
+    "Unnamed: 2": 11.37,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "MIFI",
+    "Unnamed: 5": "Exclusivo para captación y mantenimiento de cuentas corporativas. 12M"
+  },
+  {
+    "Unnamed: 0": 300531,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLAN INERTEN GRANDES CAPACIDADES SMART CONNECT PRO 12M 13 GB",
+    "Unnamed: 2": 11.81,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "MIFI",
+    "Unnamed: 5": "Exclusivo para captación y mantenimiento de cuentas corporativas. 12M"
+  },
+  {
+    "Unnamed: 0": 300531,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLAN INERTEN GRANDES CAPACIDADES SMART CONNECT PRO 12M 15 GB",
+    "Unnamed: 2": 13.42,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "MIFI",
+    "Unnamed: 5": "Exclusivo para captación y mantenimiento de cuentas corporativas. 12M"
+  },
+  {
+    "Unnamed: 0": 300531,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLAN INERTEN GRANDES CAPACIDADES SMART CONNECT PRO 12M 20 GB",
+    "Unnamed: 2": 17.89,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "MIFI",
+    "Unnamed: 5": "Exclusivo para captación y mantenimiento de cuentas corporativas. 12M"
+  },
+  {
+    "Unnamed: 0": 300531,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLAN INERTEN GRANDES CAPACIDADES SMART CONNECT PRO 12M 47 GB",
+    "Unnamed: 2": 31.5,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "MIFI",
+    "Unnamed: 5": "Exclusivo para captación y mantenimiento de cuentas corporativas. 12M"
+  },
+  {
+    "Unnamed: 0": 300531,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLAN INERTEN GRANDES CAPACIDADES SMART CONNECT PRO 12M 75 GB",
+    "Unnamed: 2": 46.16,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "MIFI",
+    "Unnamed: 5": "Exclusivo para captación y mantenimiento de cuentas corporativas. 12M"
+  },
+  {
+    "Unnamed: 0": 300531,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLAN INERTEN GRANDES CAPACIDADES SMART CONNECT PRO 12M  80 GB",
+    "Unnamed: 2": 49.23,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "MIFI",
+    "Unnamed: 5": "Exclusivo para captación y mantenimiento de cuentas corporativas. 12M"
+  },
+  {
+    "Unnamed: 0": 300531,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLAN INERTEN GRANDES CAPACIDADES SMART CONNECT PRO 12M 150 GB",
+    "Unnamed: 2": 85.21,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "MIFI",
+    "Unnamed: 5": "Exclusivo para captación y mantenimiento de cuentas corporativas. 12M"
+  },
+  {
+    "Unnamed: 0": 300531,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLAN INERTEN GRANDES CAPACIDADES SMART CONNECT PRO 24M 10 GB",
+    "Unnamed: 2": 8.65,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "MIFI",
+    "Unnamed: 5": "Exclusivo para captación y mantenimiento de cuentas corporativas. 24M"
+  },
+  {
+    "Unnamed: 0": 300531,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLAN INERTEN GRANDES CAPACIDADES SMART CONNECT PRO 24M 12 GB",
+    "Unnamed: 2": 9.1,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "MIFI",
+    "Unnamed: 5": "Exclusivo para captación y mantenimiento de cuentas corporativas. 24M"
+  },
+  {
+    "Unnamed: 0": 300531,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLAN INERTEN GRANDES CAPACIDADES SMART CONNECT PRO 24M 13 GB",
+    "Unnamed: 2": 9.8,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "MIFI",
+    "Unnamed: 5": "Exclusivo para captación y mantenimiento de cuentas corporativas. 24M"
+  },
+  {
+    "Unnamed: 0": 300531,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLAN INERTEN GRANDES CAPACIDADES SMART CONNECT PRO 24M 15 GB",
+    "Unnamed: 2": 10.74,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "MIFI",
+    "Unnamed: 5": "Exclusivo para captación y mantenimiento de cuentas corporativas. 24M"
+  },
+  {
+    "Unnamed: 0": 300531,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLAN INERTEN GRANDES CAPACIDADES SMART CONNECT PRO 24M 20 GB",
+    "Unnamed: 2": 14.32,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "MIFI",
+    "Unnamed: 5": "Exclusivo para captación y mantenimiento de cuentas corporativas. 24M"
+  },
+  {
+    "Unnamed: 0": 300531,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLAN INERTEN GRANDES CAPACIDADES SMART CONNECT PRO 24M 47 GB",
+    "Unnamed: 2": 25.2,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "MIFI",
+    "Unnamed: 5": "Exclusivo para captación y mantenimiento de cuentas corporativas. 24M"
+  },
+  {
+    "Unnamed: 0": 300531,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLAN INERTEN GRANDES CAPACIDADES SMART CONNECT PRO 24M 75 GB",
+    "Unnamed: 2": 36.93,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "MIFI",
+    "Unnamed: 5": "Exclusivo para captación y mantenimiento de cuentas corporativas. 24M"
+  },
+  {
+    "Unnamed: 0": 300531,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLAN INERTEN GRANDES CAPACIDADES SMART CONNECT PRO 24M 80 GB",
+    "Unnamed: 2": 39.39,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "MIFI",
+    "Unnamed: 5": "Exclusivo para captación y mantenimiento de cuentas corporativas. 24M"
+  },
+  {
+    "Unnamed: 0": 300531,
+    "PLANES MASIVOS - CLIENTES MASIVOS": "PLAN INERTEN GRANDES CAPACIDADES SMART CONNECT PRO 24M 150 GB",
+    "Unnamed: 2": 68.17,
+    "Unnamed: 3": 0,
+    "Unnamed: 4": "MIFI",
+    "Unnamed: 5": "Exclusivo para captación y mantenimiento de cuentas corporativas. 24M"
+  }
+]
